@@ -1,0 +1,54 @@
+[
+  {
+    "fullname": "John Appleseed",
+    "eid": "1121",
+    "group1": "Turma 1 / Turma 2 / Turma 3",
+    "group2": "Turma 6",
+    "group3": "Noturno",
+    "email Student": "john.appleseed@exemplo.com",
+    "phone Student": "kkkkkkk",
+    "email Parent": "dad.appleseed@exemplo.com",
+    "phone Parent": "(11) 99991-1234",
+    "invisible": "1",
+    "see_all": "1"
+  },
+  {
+    "fullname": "John Appleseed",
+    "eid": "1222",
+    "group1": "Turma 2,Turma 5",
+    "group2": " Turma 6",
+    "group3": "Diurno",
+    "email Student": "john.appleseed1@exemplo.com",
+    "phone Student": "(11) 99990-1235",
+    "email Parent": "dad.appleseed1@exemplo/dad.appleseed2@exemplo.com",
+    "phone Parent": "(11) 99991-1235",
+    "invisible": "yes",
+    "see_all": "no"
+  },
+  {
+    "fullname": "Mary Knight",
+    "eid": "1123",
+    "group1": "",
+    "group2": "",
+    "group3": "",
+    "email Student": "mary.knightexemplo.com",
+    "phone Student": "12 99990-1235",
+    "email Parent": "dad.knight@exemplo.com",
+    "phone Parent": "",
+    "invisible": "0",
+    "see_all": ""
+  },
+  {
+    "fullname": "Jack Littleton",
+    "eid": "1124",
+    "group1": "Sala 1",
+    "group2": "",
+    "group3": "",
+    "email Student": "jack.littleton@exemplo.com",
+    "phone Student": "13 99990",
+    "email Parent": "",
+    "phone Parent": "(13) 99991-1236",
+    "invisible": "",
+    "see_all": "1"
+  }
+]
